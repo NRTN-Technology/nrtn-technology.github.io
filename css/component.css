@@ -84,7 +84,7 @@ body {
 	left: 0;
 }
 
-/* Shadow effect */
+/* Shadow effect d*/
 .isolayer--shadow .grid__link::before {
 	content: '';
 	position: absolute;
