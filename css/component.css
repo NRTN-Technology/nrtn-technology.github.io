@@ -30,6 +30,7 @@ body {
 
 .grid__item {
 	width: 300px;
+	background: #4F4F4F;
 }
 
 .js .grid__item {
