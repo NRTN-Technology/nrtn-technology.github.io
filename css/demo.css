@@ -28,7 +28,7 @@ a {
 }
 
 a:hover, a:focus {
-	color: #4d5871;
+	color: #737373;
 	outline: none;
 }
 
@@ -177,7 +177,7 @@ a:hover, a:focus {
 }
 
 .section--intro {
-	background: linear-gradient(90deg, #58A8FB, #465683);
+	background: linear-gradient(90deg, #737373, #4F4F4F);
 }
 
 .section--portraits {
