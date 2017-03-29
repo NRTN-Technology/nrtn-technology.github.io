@@ -16,7 +16,7 @@
 body {
 	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #141715;
-	background: #D4D2E0;
+	background: #7E7E7E;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -70,7 +70,7 @@ a:hover, a:focus {
 	pointer-events: none;
 	top: 0;
 	left: 0;
-	background: linear-gradient(135deg, transparent, rgba(50,63,92,0.6));
+	background-color: #7E7E7E;
 }
 
 .codrops-header h1 {
